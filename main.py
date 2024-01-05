@@ -5,6 +5,7 @@ print("Hello Anton")
 print("Hello world")
 print("Hello")
 
+
 print("Changes from master")
-print("Changes from master 2")
-print("Goodbye world")
+print("CHanges from master and develop")
+print("Hello world from all branches")
